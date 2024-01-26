@@ -1,0 +1,3 @@
+#!/bin/bash
+emacs -q -l ~/.emacs0.d/init.el
+
